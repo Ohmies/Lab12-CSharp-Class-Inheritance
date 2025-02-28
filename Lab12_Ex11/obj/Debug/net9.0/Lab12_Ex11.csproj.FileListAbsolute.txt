@@ -1,0 +1,15 @@
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/bin/Debug/net9.0/Lab12_Ex11
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/bin/Debug/net9.0/Lab12_Ex11.deps.json
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/bin/Debug/net9.0/Lab12_Ex11.runtimeconfig.json
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/bin/Debug/net9.0/Lab12_Ex11.dll
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/bin/Debug/net9.0/Lab12_Ex11.pdb
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/Lab12_Ex11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/Lab12_Ex11.AssemblyInfoInputs.cache
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/Lab12_Ex11.AssemblyInfo.cs
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/Lab12_Ex11.csproj.CoreCompileInputs.cache
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/Lab12_Ex11.sourcelink.json
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/Lab12_Ex11.dll
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/refint/Lab12_Ex11.dll
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/Lab12_Ex11.pdb
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/Lab12_Ex11.genruntimeconfig.cache
+/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab12-CSharp-Class-Inheritance/Lab12_Ex11/obj/Debug/net9.0/ref/Lab12_Ex11.dll
